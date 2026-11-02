@@ -1,7 +1,7 @@
 /*
  * Book Inventory Management System
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: Jonathan Contreras-Jimenez
+ * Date: 11/02/2026
  * Purpose: Demonstrate the use of dynamic memory allocation and pointers
  *          with a vector-based inventory system for books.
  *
